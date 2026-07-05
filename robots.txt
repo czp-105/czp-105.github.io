@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://czp-105.github.io/al-folio/sitemap.xml
+Sitemap: https://czp-105.github.io/sitemap.xml
